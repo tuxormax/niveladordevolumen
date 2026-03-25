@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Nivelador de volumen
+Comment=Normalizador de volumen MP3 con interfaz grafica (mp3gain)
+Exec=/usr/bin/niveladordevolumen
+Icon=niveladordevolumen
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;
+Keywords=mp3;gain;volume;normalizer;audio;

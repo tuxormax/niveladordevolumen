@@ -1,0 +1,4 @@
+*.deb
+*.pyc
+__pycache__/
+mp3gain_gui_preview.py

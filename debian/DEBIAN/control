@@ -1,0 +1,13 @@
+Package: niveladordevolumen
+Version: 1.0-1
+Section: audio
+Priority: optional
+Architecture: all
+Depends: python3, python3-pyqt5, mp3gain
+Maintainer: tuxor <tuxor.max@gmail.com>
+Description: Nivelador de volumen by tuxor
+ Interfaz grafica para mp3gain que permite normalizar
+ el volumen de archivos MP3 de forma facil y rapida.
+ Soporta arrastrar y soltar carpetas, busqueda recursiva,
+ normalizacion por pista o por album, y multiples opciones
+ avanzadas de mp3gain.
