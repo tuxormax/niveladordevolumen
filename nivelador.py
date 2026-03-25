@@ -17,7 +17,7 @@ from PyQt5.QtCore import Qt, QThread, pyqtSignal, QUrl
 from PyQt5.QtGui import QFont, QPalette, QColor
 
 VERSION = "v1.0"
-REVISION = "Rev 1"
+REVISION = "Rev 2"
 FECHA_REV = "2026-03-25"
 
 STYLE = """
